@@ -10,8 +10,9 @@ function main()
     var y = prompt("y");
     
     pendown();
-    var min = -getWidth()/2;
-    var max = getWidth()/2;
-    penup (10)
+    penup ();
+    var min = -getWidth(100)/2;
+    var max = getWidth(100)/2;
+   
     
 }
